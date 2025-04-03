@@ -38,7 +38,7 @@ To summarize, you will need to produce:
 
 To help you, here is a graph representing what you should be able to find.
 
-![Vuln graph](https://cyber-essentials-assets.s3.eu-west-3.amazonaws.com/project_graph_simple.png)
+![Vuln graph|700x561](https://cyber-essentials-assets.s3.eu-west-3.amazonaws.com/project_graph_simple.png)
 
 As you can see, your report can count up to 9 vulnerabilities!
 
